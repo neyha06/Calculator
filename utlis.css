@@ -1,0 +1,24 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-red {
+    background-color: red;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .mw-20 {
+    max-width: 20vw;
+  }
+  
+
+  
+  .flex-col {
+    flex-direction: column  ;
+  }
+  .item-center{
+    align-items: center;
+  }
